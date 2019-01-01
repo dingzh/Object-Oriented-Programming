@@ -1,0 +1,13 @@
+.
+├── data.in         test input;
+├── main.cpp        source code for readint;
+├── main.o          object file compiled from main.cpp
+├── Makefile        makefile;
+├── notes.txt       this file;
+├── readint         compiled binary for readint
+├── readint.out     sample outputs;
+├── sample.in       test input;
+├── tools.cpp       tool functions;
+├── tools.hpp       header file for tool functions;
+└── tools.o         object file compiled from tool funcitons;
+

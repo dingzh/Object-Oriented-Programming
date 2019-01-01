@@ -1,0 +1,50 @@
+.
+├── flipflop.cpp    FlipFlop class implementation
+├── flipflop.hpp    FlipFlop class header file
+├── game.cpp        Game class implementation
+├── game.hpp        Game class header file
+├── main.cpp        tad program file
+├── Makefile        
+├── note.txt        this note
+├── thinkadot.cpp   ThinkADot class implementation
+├── thinkadot.hpp   ThinkADot class header file
+├── tools.cpp       tools library
+└── tools.hpp
+
+-------------------- Example Output ---------------------------
+➜  ps3-dz275 ./tad
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Oct  8 2018	16:07:46
+---------------------------------------------------------------
+L L L
+ L L
+L L L
+Enter command: H
+-------- Help Message --------
+A,B,C: drop the ball in hole A, B, or C.
+       P,Q as the hole where the ball exits.
+L,R  : reset all pointes to the left/right.
+P    : print machine state.
+H    : print this help message.
+Q    : exit.
+Enter command: L
+all position rest to L
+Enter command: P
+L L L
+ L L
+L L L
+Enter command: A
+exit from hole P
+Enter command: P
+R L L
+ L L
+R L L
+Enter command: Q
+Goodbye.
+
+---------------------------------------------------------------
+Normal termination.
+

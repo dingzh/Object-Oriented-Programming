@@ -1,0 +1,81 @@
+➜  ps2-dz275 ./readint
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Sep 24 2018	18:35:38
+---------------------------------------------------------------
+Usage: readint filename
+
+---------------------------------------------------------------
+Normal termination.
+
+➜  ps2-dz275 ./readint data.inx
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Sep 24 2018	18:32:26
+---------------------------------------------------------------
+Cannot open file data.inx.
+
+➜  ps2-dz275 ./readint data.in
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Sep 24 2018	18:32:24
+---------------------------------------------------------------
+23
+67
+123456
+-543
+789
+Skipping char:  73 0x49 'I'
+Skipping char: 116 0x74 't'
+Skipping char:  99 0x63 'c'
+Skipping char:  97 0x61 'a'
+Skipping char: 110 0x6e 'n'
+Skipping char:  39 0x27 '''
+Skipping char: 116 0x74 't'
+Skipping char:  98 0x62 'b'
+Skipping char: 101 0x65 'e'
+Skipping char: 116 0x74 't'
+Skipping char: 104 0x68 'h'
+Skipping char: 105 0x69 'i'
+Skipping char: 115 0x73 's'
+Skipping char: 101 0x65 'e'
+Skipping char:  97 0x61 'a'
+Skipping char: 115 0x73 's'
+Skipping char: 121 0x79 'y'
+Skipping char:  33 0x21 '!'
+Skipping char:  73 0x49 'I'
+Skipping char: 116 0x74 't'
+Skipping char: 104 0x68 'h'
+Skipping char: 105 0x69 'i'
+Skipping char: 110 0x6e 'n'
+Skipping char: 107 0x6b 'k'
+Skipping char:  73 0x49 'I'
+Skipping char:  39 0x27 '''
+Skipping char: 108 0x6c 'l'
+Skipping char: 108 0x6c 'l'
+Skipping char: 116 0x74 't'
+Skipping char: 114 0x72 'r'
+Skipping char: 121 0x79 'y'
+23
+Skipping char: 109 0x6d 'm'
+Skipping char: 111 0x6f 'o'
+Skipping char: 114 0x72 'r'
+Skipping char: 101 0x65 'e'
+Skipping char:  99 0x63 'c'
+Skipping char:  97 0x61 'a'
+Skipping char: 115 0x73 's'
+Skipping char: 101 0x65 'e'
+Skipping char: 115 0x73 's'
+Skipping char:  46 0x2e '.'
+Skipping char:   0 0x00
+567
+Loop exit
+---------------------------------------------------------------
+Normal termination.
+

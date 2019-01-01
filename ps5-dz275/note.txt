@@ -1,0 +1,26 @@
+.
+├── agent.hpp               three polymorphic agent class header file
+├── agent.cpp               implementation of agent classes
+├── agent.o                 obj file
+├── consensus2              compiled binary
+├── main.cpp                main function for consensus
+├── main.o                  object file for main
+├── Makefile                Makefile
+├── sample.out              my sample output
+├── note.txt                this file
+├── population.cpp          implementation of agent population class
+├── population.hpp          header file of agent population class
+├── population.o            obj file
+├── sample.in               randomly generated sample input
+├── simulator.cpp           implementation of simulator class
+├── simulator.hpp           header file of simulator class
+├── simulator.o             obj file
+├── tools.cpp               tool files
+├── tools.hpp
+└── tools.o
+
+One observation from the test input is that, generally speaking, the more
+Follow-the-crowd agents in the population, the less rounds it takes to 
+reach a consensus. This is more obvious in large populations. It makes sense
+cause they are less prone to influence of the minority,making the whole popu-
+lation more stable in choices.

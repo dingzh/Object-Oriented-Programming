@@ -1,0 +1,15 @@
+.
+├── agent.hpp               agent header file
+├── consensus               compiled binary
+├── main.cpp                main function for consensus
+├── main.o                  object file for main
+├── Makefile                Makefile
+├── mysample.out            my sample output
+├── note.txt                this file
+├── sample.in               randomly generated sample input
+├── simulator.cpp           implementation of simulator class
+├── simulator.hpp           header file of simulator class
+├── simulator.o             simulator class compiled
+├── tools.cpp               tool files
+├── tools.hpp
+└── tools.o

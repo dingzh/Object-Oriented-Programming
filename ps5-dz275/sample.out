@@ -1,0 +1,1920 @@
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:      0
+     probOne:      0
+Population statistics:
+   numFickle:      0
+    numCrowd:   1000
+     numOnes:      0
+Results of simulation:
+      Rounds:      0
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:      1
+     probOne:      0
+Population statistics:
+   numFickle:   1000
+    numCrowd:      0
+     numOnes:      0
+Results of simulation:
+      Rounds:      0
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:      0
+     probOne:      1
+Population statistics:
+   numFickle:      0
+    numCrowd:   1000
+     numOnes:   1000
+Results of simulation:
+      Rounds:      0
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:      1
+     probOne:      1
+Population statistics:
+   numFickle:   1000
+    numCrowd:      0
+     numOnes:   1000
+Results of simulation:
+      Rounds:      0
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+usage: > consensus2 numAgents probFickle probOne [seed]
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+usage: > consensus2 numAgents probFickle probOne [seed]
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+usage: > consensus2 numAgents probFickle probOne [seed]
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.1
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:     96
+Results of simulation:
+      Rounds:   8316
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.2
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    191
+Results of simulation:
+      Rounds:  10774
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.3
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    301
+Results of simulation:
+      Rounds:  12338
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.4
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    398
+Results of simulation:
+      Rounds:  13327
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.5
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    492
+Results of simulation:
+      Rounds:  17895
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.6
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    590
+Results of simulation:
+      Rounds:  18000
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.7
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    697
+Results of simulation:
+      Rounds:  13343
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.8
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    809
+Results of simulation:
+      Rounds:  10326
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.1
+     probOne:    0.9
+Population statistics:
+   numFickle:    116
+    numCrowd:    884
+     numOnes:    895
+Results of simulation:
+      Rounds:   7123
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.1
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:     96
+Results of simulation:
+      Rounds:   8316
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.2
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    191
+Results of simulation:
+      Rounds:  10774
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.3
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    301
+Results of simulation:
+      Rounds:  12760
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.4
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    398
+Results of simulation:
+      Rounds:  13880
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.5
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    492
+Results of simulation:
+      Rounds:  24800
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.6
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    590
+Results of simulation:
+      Rounds:  16768
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.7
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    697
+Results of simulation:
+      Rounds:  16768
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.8
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    809
+Results of simulation:
+      Rounds:  10326
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.2
+     probOne:    0.9
+Population statistics:
+   numFickle:    194
+    numCrowd:    806
+     numOnes:    895
+Results of simulation:
+      Rounds:   7123
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.1
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:     96
+Results of simulation:
+      Rounds:   9903
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.2
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    191
+Results of simulation:
+      Rounds:  10774
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.3
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    301
+Results of simulation:
+      Rounds:  18648
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.4
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    398
+Results of simulation:
+      Rounds:  18648
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.5
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    492
+Results of simulation:
+      Rounds:  34400
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.6
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    590
+Results of simulation:
+      Rounds:  21392
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.7
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    697
+Results of simulation:
+      Rounds:  16768
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.8
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    809
+Results of simulation:
+      Rounds:  15604
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.3
+     probOne:    0.9
+Population statistics:
+   numFickle:    284
+    numCrowd:    716
+     numOnes:    895
+Results of simulation:
+      Rounds:  15604
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.1
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:     96
+Results of simulation:
+      Rounds:  10706
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.2
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    191
+Results of simulation:
+      Rounds:  12338
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.3
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    301
+Results of simulation:
+      Rounds:  18648
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.4
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    398
+Results of simulation:
+      Rounds:  18648
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.5
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    492
+Results of simulation:
+      Rounds:  41173
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.6
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    590
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.7
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    697
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.8
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    809
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.4
+     probOne:    0.9
+Population statistics:
+   numFickle:    381
+    numCrowd:    619
+     numOnes:    895
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.1
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:     96
+Results of simulation:
+      Rounds:  13513
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.2
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    191
+Results of simulation:
+      Rounds:  15543
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.3
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    301
+Results of simulation:
+      Rounds:  18648
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.4
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    398
+Results of simulation:
+      Rounds:  20275
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.5
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    492
+Results of simulation:
+      Rounds:  33040
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.6
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    590
+Results of simulation:
+      Rounds:  21132
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.7
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    697
+Results of simulation:
+      Rounds:  21132
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.8
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    809
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.5
+     probOne:    0.9
+Population statistics:
+   numFickle:    473
+    numCrowd:    527
+     numOnes:    895
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.1
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:     96
+Results of simulation:
+      Rounds:  15518
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.2
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    191
+Results of simulation:
+      Rounds:  15518
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.3
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    301
+Results of simulation:
+      Rounds:  20734
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.4
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    398
+Results of simulation:
+      Rounds:  20734
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.5
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    492
+Results of simulation:
+      Rounds:  36212
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.6
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    590
+Results of simulation:
+      Rounds:  29233
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.7
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    697
+Results of simulation:
+      Rounds:  21139
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.8
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    809
+Results of simulation:
+      Rounds:  18451
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.6
+     probOne:    0.9
+Population statistics:
+   numFickle:    608
+    numCrowd:    392
+     numOnes:    895
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.1
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:     96
+Results of simulation:
+      Rounds:  22904
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.2
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    191
+Results of simulation:
+      Rounds:  22904
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.3
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    301
+Results of simulation:
+      Rounds:  23433
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.4
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    398
+Results of simulation:
+      Rounds:  23433
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.5
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    492
+Results of simulation:
+      Rounds:  68173
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.6
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    590
+Results of simulation:
+      Rounds:  29781
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.7
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    697
+Results of simulation:
+      Rounds:  18451
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.8
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    809
+Results of simulation:
+      Rounds:  18451
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.7
+     probOne:    0.9
+Population statistics:
+   numFickle:    709
+    numCrowd:    291
+     numOnes:    895
+Results of simulation:
+      Rounds:  17574
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.1
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:     96
+Results of simulation:
+      Rounds:  23989
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.2
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    191
+Results of simulation:
+      Rounds:  32905
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.3
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    301
+Results of simulation:
+      Rounds:  35313
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.4
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    398
+Results of simulation:
+      Rounds:  96880
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.5
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    492
+Results of simulation:
+      Rounds:  47561
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.6
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    590
+Results of simulation:
+      Rounds:  41494
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.7
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    697
+Results of simulation:
+      Rounds:  22546
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.8
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    809
+Results of simulation:
+      Rounds:  21718
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.8
+     probOne:    0.9
+Population statistics:
+   numFickle:    810
+    numCrowd:    190
+     numOnes:    895
+Results of simulation:
+      Rounds:  18358
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.1
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:     96
+Results of simulation:
+      Rounds:  57967
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.2
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    191
+Results of simulation:
+      Rounds:  98665
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.3
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    301
+Results of simulation:
+      Rounds:  98665
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.4
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    398
+Results of simulation:
+      Rounds:  98665
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.5
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    492
+Results of simulation:
+      Rounds:  69094
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.6
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    590
+Results of simulation:
+      Rounds:  69094
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.7
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    697
+Results of simulation:
+      Rounds:  50388
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:12
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.8
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    809
+Results of simulation:
+      Rounds:  28369
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:13
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:   1000
+  probFickle:    0.9
+     probOne:    0.9
+Population statistics:
+   numFickle:    892
+    numCrowd:    108
+     numOnes:    895
+Results of simulation:
+      Rounds:  21683
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:13
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:  99999
+  probFickle:    0.5
+     probOne:    0.5
+Population statistics:
+   numFickle:  49554
+    numCrowd:  50445
+     numOnes:  49983
+Results of simulation:
+      Rounds:5246946
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:13
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:  99999
+  probFickle:    0.5
+     probOne:    0.3
+Population statistics:
+   numFickle:  49554
+    numCrowd:  50445
+     numOnes:  30025
+Results of simulation:
+      Rounds:2529393
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:13
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:  99999
+  probFickle:    0.5
+     probOne:    0.7
+Population statistics:
+   numFickle:  49554
+    numCrowd:  50445
+     numOnes:  69896
+Results of simulation:
+      Rounds:2446807
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:14
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:  99999
+  probFickle:    0.3
+     probOne:    0.5
+Population statistics:
+   numFickle:  29605
+    numCrowd:  70394
+     numOnes:  49983
+Results of simulation:
+      Rounds:5995073
+   Consensus:      1
+
+---------------------------------------------------------------
+Normal termination.
+
+---------------------------------------------------------------
+	Ding Zhou
+	CPSC 427/527
+	Mon Nov 12 2018	23:38:14
+---------------------------------------------------------------
+Welcome to Consensus Simulator!
+Using seed: 1541033658
+   numAgents:  99999
+  probFickle:    0.7
+     probOne:    0.5
+Population statistics:
+   numFickle:  69774
+    numCrowd:  30225
+     numOnes:  49983
+Results of simulation:
+      Rounds:8119650
+   Consensus:      0
+
+---------------------------------------------------------------
+Normal termination.

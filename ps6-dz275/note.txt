@@ -1,0 +1,18 @@
+.
+├── Blockchain.hpp			header file for block chain	
+├── Block.cpp				block class implementation
+├── Block.hpp				block class header file
+├── Driver.cpp				blockchain simulation driver
+├── Driver.hpp				blockchain driver header file
+├── main.cpp				main program of blockchain
+├── Makefile				makefile
+├── note.txt				this file
+├── sample.in				sample input
+├── sample.out				sample output
+├── Serial.cpp				Serial class for UID, modified to start at 1
+├── Serial.hpp				Serial class header file
+├── SPtr.cpp				Smart pointer class implementation
+├── SPtr.hpp				Smart pointer header file
+├── tools.cpp				tools implemetation
+└── tools.hpp				header file for tools
+

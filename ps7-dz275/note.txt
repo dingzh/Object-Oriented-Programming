@@ -1,0 +1,28 @@
+.
+├── agent.hpp               three polymorphic agent class header file
+├── agent.cpp               implementation of agent classes
+├── blockchain              compiled executable
+├── Blockchain.hpp          header file fro blockchain
+├── Block.cpp               implementation for block
+├── Block.hpp               header file for block
+├── main.cpp                main function for consensus
+├── Makefile                Makefile
+├── sample.out              my sample output
+├── note.txt                this file
+├── population.cpp          implementation of agent population class
+├── population.hpp          header file of agent population class
+├── sample.sh               sample input
+├── sample.out              sample output for simulation
+├── Serial.cpp              serial class given
+├── Serial.hpp
+├── simulator.cpp           implementation of simulator class
+├── simulator.hpp           header file of simulator class
+├── SPtr.cpp                smart pointer class given
+├── SPtr.hpp
+├── tools.cpp               tool files
+└── tools.hpp
+
+I made a few modifications to SPtr class, including removing the uid field.
+The rationale behide this modification is that SPtr is just our way of managing
+dynamically allocated memory and not a part of the consensus simulation, thus
+SPtr is not and should not be assigned a uid.
